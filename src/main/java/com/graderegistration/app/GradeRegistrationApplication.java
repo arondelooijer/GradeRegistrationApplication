@@ -8,7 +8,7 @@ public class GradeRegistrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GradeRegistrationApplication.class, args);
-		System.out.println("print");
+		System.out.println("Karin");
 	}
 
 }
